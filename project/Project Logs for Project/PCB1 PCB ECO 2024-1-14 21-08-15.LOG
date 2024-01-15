@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=TP5-1
+Removed Pin From Net: NetName=GND Pin=TP6-1
+Removed Member From Class: ClassName=6 Member=TP5
+Removed Member From Class: ClassName=6 Member=TP6
+Added Component: Designator=TP2(PCBComponent_1 - duplicate)
+Added Component: Designator=TP3(PCBComponent_1 - duplicate)
+Added Component: Designator=U7(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Member To Class: ClassName=6 Member=Component TP2 M3__
+Added Member To Class: ClassName=6 Member=Component TP3 M3__
+Added Member To Class: ClassName=3 Member=Component U7 RM500C-CN
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=5
+Added Room: Name=6
+Added Room: Name=7
+Added Room: Name=8
+Added Room: Name=9

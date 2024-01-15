@@ -1,0 +1,55 @@
+Added Component: Designator=C49(0603C)
+Added Component: Designator=C50(0603C)
+Added Component: Designator=C51(CAP-SMD_BD6.3-L6.6-W6.6-FD)
+Added Component: Designator=C53(1206C)
+Added Component: Designator=C54(CAP-SMD_BD6.3-L6.6-W6.6-FD)
+Added Component: Designator=C55(1206C)
+Added Component: Designator=CN??(CONN-TH_XT30PW-M)
+Added Component: Designator=D14(SMAF_L4.3-W2.5-LS5.0-RD)
+Added Component: Designator=L5(IND-SMD_L12.0-W12.0)
+Added Component: Designator=R55(0603R)
+Added Component: Designator=R56(0603R)
+Added Component: Designator=R57(0603R)
+Added Component: Designator=R61(0603R)
+Added Component: Designator=U12(ESOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP3.3)
+Added Pin To Net: NetName=5V Pin=C50-2
+Added Pin To Net: NetName=5V Pin=C54-1
+Added Pin To Net: NetName=5V Pin=C55-2
+Added Pin To Net: NetName=5V Pin=CN??-1
+Added Pin To Net: NetName=5V Pin=L5-2
+Added Pin To Net: NetName=5V Pin=R57-2
+Added Net: Name=5V
+Added Pin To Net: NetName=BAT Pin=C51-1
+Added Pin To Net: NetName=BAT Pin=C53-2
+Added Pin To Net: NetName=BAT Pin=R56-1
+Added Pin To Net: NetName=BAT Pin=U12-1
+Added Pin To Net: NetName=BAT Pin=U12-9
+Added Net: Name=BAT
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=GND Pin=C55-1
+Added Pin To Net: NetName=GND Pin=CN??-2
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Pin To Net: NetName=GND Pin=R61-1
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=U12-6
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=NetC49_2 Pin=C50-1
+Added Pin To Net: NetName=NetC49_2 Pin=D14-1
+Added Pin To Net: NetName=NetC49_2 Pin=L5-1
+Added Pin To Net: NetName=NetC49_2 Pin=R55-2
+Added Pin To Net: NetName=NetC49_2 Pin=R57-1
+Added Pin To Net: NetName=NetC49_2 Pin=R61-2
+Added Pin To Net: NetName=NetC49_2 Pin=U12-5
+Added Pin To Net: NetName=NetC49_2 Pin=U12-7
+Added Net: Name=NetC49_2
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U12-8
+Added Net: Name=NetR55_1
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=U12-3
+Added Net: Name=NetR56_2

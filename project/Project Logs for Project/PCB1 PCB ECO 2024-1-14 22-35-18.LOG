@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=DP Pin=R14-2
+Removed Pin From Net: NetName=VBUS Pin=USB1-A4
+Removed Pin From Net: NetName=DP Pin=USB1-A5
+Removed Pin From Net: NetName=DN Pin=USB1-A6
+Removed Pin From Net: NetName=VBUS Pin=USB1-A9
+Removed Pin From Net: NetName=GND Pin=USB1-A12
+Removed Pin From Net: NetName=GND Pin=USB1-B1
+Removed Pin From Net: NetName=VBUS Pin=USB1-B4
+Removed Pin From Net: NetName=DN Pin=USB1-B5
+Removed Pin From Net: NetName=DP Pin=USB1-B6
+Removed Pin From Net: NetName=VBUS Pin=USB1-B9
+Removed Member From Class: ClassName=2 Member=USB1
+Removed Member From Class: ClassName=2 Member=USB1
+Added Component: Designator=USB??(USB-C-SMD_TYPE-C-6PIN-2MD-073)
+Added Pin To Net: NetName=GND Pin=USB??-1
+Added Pin To Net: NetName=VBUS Pin=USB??-2
+Added Pin To Net: NetName=VBUS Pin=USB??-3
+Added Pin To Net: NetName=DN Pin=USB??-5
+Added Pin To Net: NetName=DP Pin=USB??-6
+Added Pin To Net: NetName=DN Pin=USB??-7
+Added Pin To Net: NetName=DP Pin=USB??-8
+Added Pin To Net: NetName=VBUS Pin=USB??-9
+Added Pin To Net: NetName=VBUS Pin=USB??-11
+Added Pin To Net: NetName=GND Pin=USB??-12
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=USB??-4
+Added Net: Name=NetR14_2
+Added Member To Class: ClassName=2 Member=Component USB?? TYPE-C 16PIN 2MD(073)

@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=2 Member=U6
+Removed Member From Class: ClassName=3 Member=U7
+Removed Member From Class: ClassName=3 Member=U7
+Removed Member From Class: ClassName=3 Member=U7
+Removed Member From Class: ClassName=3 Member=U7
+Change Component Footprint: Designator=U3 Old Footprint=DIP-16_L20.0-W6.4-P2.54-LS7.6-BL New Footprint=SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL
+Change Component Footprint: Designator=U4 Old Footprint=DIP-16_L20.0-W6.4-P2.54-LS7.6-BL New Footprint=SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL
+Added Component: Designator=USB1(USB-C-TH_TYPE-C-31-M-19)
+Added Pin To Net: NetName=NetUSB1_A1 Pin=USB1-A1
+Added Pin To Net: NetName=VBUS Pin=USB1-A4
+Added Pin To Net: NetName=DP Pin=USB1-A5
+Added Pin To Net: NetName=DN Pin=USB1-A6
+Added Pin To Net: NetName=VBUS Pin=USB1-A9
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=VBUS Pin=USB1-B4
+Added Pin To Net: NetName=DN Pin=USB1-B5
+Added Pin To Net: NetName=DP Pin=USB1-B6
+Added Pin To Net: NetName=NetR15_2 Pin=USB1-B7
+Added Pin To Net: NetName=VBUS Pin=USB1-B9
+Added Pin To Net: NetName=NetUSB1_A1 Pin=USB1-B12
+Added Member To Class: ClassName=2 Member=Component USB1 #NAME?
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=5
+Added Room: Name=6
+Added Room: Name=7
+Added Room: Name=8
+Added Room: Name=9

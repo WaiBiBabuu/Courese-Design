@@ -1,0 +1,10 @@
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=1|SchDesignator=1|FileName=1_系统电源.SchDoc|SymbolType=Normal|RawFileName=1_系统电源.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=2|SchDesignator=2|FileName=2_主控.SchDoc|SymbolType=Normal|RawFileName=2_主控.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=3|SchDesignator=3|FileName=3_5G模块.SchDoc|SymbolType=Normal|RawFileName=3_5G模块.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=4|SchDesignator=4|FileName=4_SIM卡座电路.SchDoc|SymbolType=Normal|RawFileName=4_SIM卡座电路.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=5|SchDesignator=5|FileName=5_传感器.SchDoc|SymbolType=Normal|RawFileName=5_传感器.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=6|SchDesignator=6|FileName=6_对外接口.Schdoc|SymbolType=Normal|RawFileName=6_对外接口.Schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=7|SchDesignator=7|FileName=7_5G模块电源.SchDoc|SymbolType=Normal|RawFileName=7_5G模块电源.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=8|SchDesignator=8|FileName=8_SD卡电路.SchDoc|SymbolType=Normal|RawFileName=8_SD卡电路.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Device.SchDoc|Designator=9|SchDesignator=9|FileName=9_降压电路.SchDoc|SymbolType=Normal|RawFileName=9_降压电路.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=Device.SchDoc

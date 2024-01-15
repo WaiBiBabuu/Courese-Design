@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=H2-1
+Removed Pin From Net: NetName=DP Pin=H2-2
+Removed Pin From Net: NetName=DN Pin=H2-3
+Removed Pin From Net: NetName=5V Pin=H2-4
+Removed Member From Class: ClassName=6 Member=H2
+Added Component: Designator=USB??(USB-C-SMD_TYPE-C-6P)
+Added Pin To Net: NetName=DP Pin=USB??-A5
+Added Pin To Net: NetName=5V Pin=USB??-A9
+Added Pin To Net: NetName=GND Pin=USB??-A12
+Added Pin To Net: NetName=DN Pin=USB??-B5
+Added Pin To Net: NetName=5V Pin=USB??-B9
+Added Pin To Net: NetName=GND Pin=USB??-B12
+Added Member To Class: ClassName=6 Member=Component USB?? TYPE-C 6P(040_)
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=5
+Added Room: Name=6
+Added Room: Name=7
+Added Room: Name=8
+Added Room: Name=9

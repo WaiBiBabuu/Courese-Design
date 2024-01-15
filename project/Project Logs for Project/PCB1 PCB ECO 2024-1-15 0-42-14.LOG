@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3V3 Pin=R6-1
+Removed Pin From Net: NetName=VBUS Pin=R8-2
+Removed Member From Class: ClassName=2 Member=R6
+Removed Member From Class: ClassName=2 Member=R8
+Removed Member From Class: ClassName=2 Member=R13
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=5
+Added Room: Name=6
+Added Room: Name=7
+Added Room: Name=8
+Added Room: Name=9

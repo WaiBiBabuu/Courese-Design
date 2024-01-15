@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=3V3 Pin=U2-3
+Removed Pin From Net: NetName=3V3 Pin=U2-5
+Removed Member From Class: ClassName=2 Member=U2
+Removed Member From Class: ClassName=2 Member=X3
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=5
+Added Room: Name=6
+Added Room: Name=7
+Added Room: Name=8
+Added Room: Name=9
